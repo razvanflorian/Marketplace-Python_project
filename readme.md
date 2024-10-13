@@ -1,6 +1,6 @@
 Proiect Django - Marketplace
 
-Prin acest proiect am creat un mic marketplace ce ofera posibilitatea utilizatorilor sa achizitioneze produse de panificatie.
+Prin acest proiect am creat un mic marketplace ce ofera posibilitatea utilizatorilor sa achizitioneze anumite produse
 
 Din punct de vedere tehnic:
 - Creare admin “python manage.py createsuperuser”
